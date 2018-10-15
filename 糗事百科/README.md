@@ -3,6 +3,6 @@
 3.糗事列表为有规律布局的界面，先设计共有的区域作为基础单元，然后复制或列表循环展示出来<br>
 ![Image text](https://github.com/liangpeiyi/weApp/blob/master/app-images/%E7%B3%97%E4%BA%8B%E7%99%BE%E7%A7%91-%E4%B8%93%E4%BA%AB%E5%88%97%E8%A1%A8.png?raw=true)
 4.视频列表放一些搞笑视频或者随拍视频，需要使用video视频组件，每个视频组件都有唯一的id<br>
-![Image text]()
+![Image text](https://github.com/liangpeiyi/weApp/blob/master/app-images/%E7%B3%97%E4%BA%8B%E7%99%BE%E7%A7%91-%E8%A7%86%E9%A2%91%E5%88%97%E8%A1%A8.png?raw=true)
 5.分享功能，使用onShareAppMessage函数，设置该页面的分享信息<br>
-![Image text]()
+![Image text](https://github.com/liangpeiyi/weApp/blob/master/app-images/%E7%B3%97%E4%BA%8B%E7%99%BE%E7%A7%91-%E8%BD%AC%E5%8F%91.png?raw=true)
