@@ -3,3 +3,18 @@
 3.糗事列表为有规律布局的界面，先设计共有的区域作为基础单元，然后复制或列表循环展示出来
 4.视频列表放一些搞笑视频或者随拍视频，需要使用video视频组件，每个视频组件都有唯一的id
 5.分享功能，使用onShareAppMessage函数，设置该页面的分享信息
+1.pages/<br>
+<br>
+![Image text]()
+
+2.pages/<br>
+<br>
+![Image text]()
+
+3.pages/<br>
+<br>
+![Image text]()
+
+4.pages/<br>
+<br>
+![image]()
