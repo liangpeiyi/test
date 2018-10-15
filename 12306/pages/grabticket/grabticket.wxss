@@ -1,0 +1,114 @@
+/* pages/grabticket/grabticket.wxss */
+.amountBg{
+  height:70px;
+  background-color: #5495E6;
+}
+.bg{
+  width: 80%;
+  height:53px;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+.icon{
+  border: 1px solid #6ebafe;
+  font-size: 13px;
+  margin-left: 10px;
+  color: #6ebafe;
+  text-align: center;
+}
+.tip{
+  font-size: 15px;
+  margin: 5px;
+}
+.right{
+  margin-right: 5px;
+}
+.content{
+  background-color: #f4f4f4;
+  height:600px;
+}
+.hr{
+  height:10px;
+}
+.item{
+  background-color: #fff;
+  width: 90%;
+  margin: 0 auto;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+.station{
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.desc1{
+  font-size: 15px;
+  color: #999;
+  margin-bottom: 15px;
+}
+.desc2{
+  font-size: 15px;
+  color: #999;
+}
+.ticket{
+  width: 85%;
+}
+.opr{
+  width: 45px;
+  height: 45px;
+  border-radius: 45px;
+  background-color: #29ce73;
+  color: #fff;
+  line-height: 45px;
+  font-size: 13px;
+  text-align: center;
+}
+.start{
+  width: 45px;
+  height: 45px;
+  border-radius: 45px;
+  border: 1px solid red;
+  color: red;
+  line-height: 45px;
+  font-size: 13px;
+  text-align: center;
+}
+.share{
+  background-color: #fff;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  align-items: center;
+  height: 55px;
+}
+.speed{
+  width: 36px;
+  height: 36px;
+  border-radius: 50px;
+  background-color: #29ce73;
+  font-size: 12px;
+  color: #fff;
+  text-align: center;
+  line-height: 36px;
+  margin-left: 10px;
+}
+.tipShare{
+  width: 80%;
+  margin-left: 5px
+}
+.jsb{
+  color: #999;
+  font-size: 13px;
+  margin-top: 5px;
+}
+.detail{
+  width: 15px;
+  text-align: right;
+  margin-right: 5px;
+}

@@ -1,0 +1,56 @@
+<!-- first video -->
+<view class="line"></view>
+<view class="item">
+  <view class="head">
+    <view>
+      <image src="../../images/icon/head.jpg" style="width:45px;height:45px;" />
+    </view>
+    <view class="title">脑洞先生</view>
+    <view class="hot">
+      <image src="../../images/icon/hot.jpg" style="width:14px;height:16px;" />
+      热门
+    </view>
+  </view>
+  <view class="content">
+    爱就是你爸打你，你妈骂你，从不讲道理，无处躲避，总是让你始料不及，谁让你每次考试倒数第一......
+  </view>
+  <view class="section">
+    <video id="myVideo" src="https://f.us.sinaimg.cn/00239f9Slx07oeTC0are0104020020OE0k010.mp4?label=mp4_hd&template=480x852.28&Expires=1539345289&ssig=p7R8q2F6vj&KID=unistore,video" controls />
+  </view>
+  <view class="sta">好笑9362 • 评论320 • 分享136</view>
+  <view class="icon">
+    <view><image src="../../images/icon/xiao.jpg" class="iconImg" /></view>
+    <view><image src="../../images/icon/ku.jpg" class="iconImg" /></view>
+    <view><image src="../../images/icon/pinglun.jpg" class="iconImg" /></view>
+    <view class="last"><image src="../../images/icon/fenxiang.jpg" class="iconImg" /></view>
+  </view>
+</view>
+
+<!-- second video -->
+<view class="line"></view>
+<view class="item">
+  <view class="head">
+    <view>
+      <image src="../../images/icon/head.jpg" style="width:45px;height:45px;" />
+    </view>
+    <view class="title">沙雕侠侣</view>
+    <view class="hot">
+      <image src="../../images/icon/hot.jpg" style="width:14px;height:16px;" />
+      热门
+    </view>
+  </view>
+
+  <view class="content">
+    国外某网友点了份外卖，为了不吵到熟睡的奶奶，提醒外卖员到了不要按门铃，结果万万没想到哈哈哈哈哈哈哈哈哈！！！[允悲][允悲][允悲]
+  </view>
+  <view class="section">
+    <video id="myVideo" src="https://f.us.sinaimg.cn/000kPk6sgx07ojztIdIH010402003ALL0k010.mp4?label=mp4_hd&template=360x360.20&Expires=1539345596&ssig=DctJkZL%2BQx&KID=unistore,video" controls />
+  </view>
+  <view class="sta">好笑9362 • 评论320 • 分享136</view>
+  <view class="icon">
+    <view><image src="../../images/icon/xiao.jpg" class="iconImg" /></view>
+    <view><image src="../../images/icon/ku.jpg" class="iconImg" /></view>
+    <view><image src="../../images/icon/pinglun.jpg" class="iconImg" /></view>
+    <view class="last"><image src="../../images/icon/fenxiang.jpg" class="iconImg" /></view>
+  </view>
+</view>

@@ -1,0 +1,106 @@
+<view class="content">
+  <view class="line"></view>
+  <view class="item">
+    <view class="title">玩转婚博会</view>
+    <view class="hr"></view>
+    <view class="navs">
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/dxy.jpg" class="navImg" /></view>
+        <view>订喜宴</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/phz.jpg" class="navImg" /></view>
+        <view>拍婚照</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/zhq.jpg" class="navImg" /></view>
+        <view>找婚庆</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/dhj.jpg" class="navImg" /></view>
+        <view>订婚戒</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/xhs.jpg" class="navImg" /></view>
+        <view>选婚纱</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/thp.jpg" class="navImg" /></view>
+        <view>淘婚品</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/dmy.jpg" class="navImg" /></view>
+        <view>度蜜月</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/zhc.jpg" class="navImg" /></view>
+        <view>租婚车</view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<view class="content">
+  <view class="line"></view>
+  <view class="item">
+    <view class="title">特色分类</view>
+    <view class="hr"></view>
+    <view class="navs">
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/dxy.jpg" class="navImg" /></view>
+        <view>订喜宴</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/phz.jpg" class="navImg" /></view>
+        <view>拍婚照</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/zhq.jpg" class="navImg" /></view>
+        <view>找婚庆</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/dhj.jpg" class="navImg" /></view>
+        <view>订婚戒</view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<view class="content">
+  <view class="line"></view>
+  <view class="item">
+    <view class="title">我的婚博会</view>
+    <view class="hr"></view>
+    <view class="navs">
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/dxy.jpg" class="navImg" /></view>
+        <view>订喜宴</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/phz.jpg" class="navImg" /></view>
+        <view>拍婚照</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/zhq.jpg" class="navImg" /></view>
+        <view>找婚庆</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/dhj.jpg" class="navImg" /></view>
+        <view>订婚戒</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/xhs.jpg" class="navImg" /></view>
+        <view>选婚纱</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/thp.jpg" class="navImg" /></view>
+        <view>淘婚品</view>
+      </view>
+      <view class="nav">
+        <view><image src="../../images/type/wzhbh/dmy.jpg" class="navImg" /></view>
+        <view>度蜜月</view>
+      </view>
+    </view>
+  </view>
+  <view class="line"></view>
+</view>

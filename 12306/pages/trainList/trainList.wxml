@@ -1,0 +1,47 @@
+<!--pages/trainList/trainList.wxml-->
+<view class='date'>
+  <view>前一天</view>
+  <view>{{date}}</view>
+  <view>后一天</view>
+</view>
+<view class='content' style='height:{{winHeight}}px'>
+  <block wx:for="{{trainList}}" wx:key="key">
+    <view class='bg'>
+      <view class='item'>
+        <view class='wrApper left'>
+          <view class='normal'>{{item.start_station}}</view>
+          <view class='normal'>{{item.start_time}}</view> 
+        </view>
+        <view class='wrApper center'>
+          <view class='normal'>{{item.tran_no}}</view>
+          <view class='line'></view>
+          <view class='small'>{{item.run_time}}</view>
+        </view>
+        <view class='wrApper center'>
+          <view class='normal'>{{item.end_station}}</view>
+          <view class='normal'>{{item.end_time}}</view>
+        </view>
+        <view class='wrApper right'>
+          <view class='blue font-16'>￥{{item.price_list[0].price}}</view>
+          <view class='buy'>可抢票</view>
+        </view>
+      </view>
+      <view class='hr'></view>
+      <view class='seat'>
+        <block wx:for="{{item.price_list}}" wx:key="id">
+          <view wx:if="{{item.price_type == '一等座'}}" class='yes'>一等座：100张<text>（抢）</text></view>
+          <view wx:elif="{{item.price_type == '二等座'}}" class='no'>二等座：0张<text>（抢）</text></view>
+        </block>
+      </view>
+    </view>
+  </block>
+  <view class='bottomNav'>
+    <view id='0' class="{{currentTab==0?'selected':'common'}}" bindtap='switchNav'>筛选</view>
+    <view style='color:#fff;'>|</view>
+    <view id='1' class="{{currentTab==1?'selected':'common'}}" bindtap='switchNav'>出发时间</view>
+    <view style='color:#fff;'>|</view>
+    <view id='2' class="{{currentTab==2?'selected':'common'}}" bindtap='switchNav'>旅行时间</view>
+    <view style='color:#fff;'>|</view>
+    <view id='3' class="{{currentTab==3?'selected':'common'}}" bindtap='switchNav'>显示价格</view>
+  </view>
+</view>

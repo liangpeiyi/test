@@ -1,0 +1,76 @@
+/* pages/cash/cash.wxss */
+.menu{
+  display: block;
+  height: 38px;
+}
+.menu dt{
+  font-size: 13px;
+  float: left;
+  width: 49.6%;
+  height: 38px;
+  line-height: 38px;
+  background-color: #fff;
+  text-align: center;
+  /* border-right: 1px solid #f2f2f2; */
+  border-bottom: 1px solid #f2f2f2;
+}
+.menu dd{
+  position: absolute;
+  width: 100%;
+  top: 40px;
+  left: 0;
+  z-index: 999;
+}
+.menu li{
+  font-size: 14px;
+  line-height: 40px;
+  background-color: #f3f1ef;
+  display: block;
+  padding-left: 8px;
+  border-bottom: 1px solid #fff;
+}
+.select{
+  color:red;
+}
+.show{
+  display: block;
+}
+.hidden{
+  display: none;
+}
+.item{
+  margin: 10px;
+  display: flex;
+}
+.itemImg{
+  width: 93px;
+  height: 73px;
+}
+.desc{
+  margin-left: 10px;
+  width: 100%;
+}
+.apply{
+  font-size: 12px;
+  color: #cccccc;
+  position: absolute;
+  right: 10px;
+  margin-top: 5px;
+}
+.hr{
+  height: 1px;
+  background-color: #f2f2f2;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.price{
+  font-size: 25px;
+  color: red;
+  font-weight: bold;
+}
+.line{
+  height: 1px;
+  background-color: #f2f2f2;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

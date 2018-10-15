@@ -1,0 +1,20 @@
+<view class="haibao">
+  <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+    <block wx:for="{{imgUrls}}">
+      <swiper-item>
+        <image class="swiper-image" src="{{item}}" />
+      </swiper-item>
+    </block>
+  </swiper>
+</view>
+
+<view class="nav">
+  <block wx:for="{{navs}}">
+    <view class="item" bindtap="navBtn" id="{{index}}">
+      <view><image src="{{item.img}}" style="width:58px;height:58px;" /></view>
+      <view>{{item.name}}</view>
+    </view>
+  </block>
+</view>
+
+<view class="hr"></view>
