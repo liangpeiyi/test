@@ -3,7 +3,7 @@
 ![Image text](https://github.com/liangpeiyi/weApp/blob/master/app-images/12306-%E7%81%AB%E8%BD%A6%E7%A5%A8%E7%95%8C%E9%9D%A2.png?raw=true)
 
 2.pages/trainList<br>
-火车票列表：在火车票界面中，输入起始站和终点站，单击“查询”按钮，可以看到火车票信息，包括车站名称、车次、历时时长、发车时间、到站时间、票价<br>
+火车票列表：在火车票界面中，输入起始站和终点站，单击“查询”按钮，发起网络请求获得火车票信息，包括车站名称、车次、历时时长、发车时间、到站时间、票价<br>
 ![Image text](https://github.com/liangpeiyi/weApp/blob/master/app-images/12306-%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%88%97%E8%A1%A8.png?raw=true)
 
 3.pages/mycenter<br>
