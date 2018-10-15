@@ -14,10 +14,10 @@
 
 4.pages/marry<br>
 索要表单<br>
-![Image text](https://github.com/liangpeiyi/weApp/blob/master/app-images/%E5%A9%9A%E5%8D%9A%E4%BC%9A-%E7%B4%A2%E8%A6%81%E8%A1%A8%E5%8D%95.png?raw=true)<br>
+![Image text](https://github.com/liangpeiyi/weApp/blob/master/app-images/%E5%A9%9A%E5%8D%9A%E4%BC%9A-%E7%B4%A2%E8%A6%81%E8%A1%A8%E5%8D%95.png?raw=true)<br><br>
 填写表单<br>
-![image](https://github.com/liangpeiyi/weApp/blob/master/app-images/%E5%A9%9A%E5%8D%9A%E4%BC%9A-%E7%B4%A2%E8%A6%81%E8%A1%A8%E5%8D%952.png?raw=true)<br>
+![image](https://github.com/liangpeiyi/weApp/blob/master/app-images/%E5%A9%9A%E5%8D%9A%E4%BC%9A-%E7%B4%A2%E8%A6%81%E8%A1%A8%E5%8D%952.png?raw=true)<br><br>
 获知渠道列表<br>
-![Image text](https://github.com/liangpeiyi/weApp/blob/master/app-images/%E5%A9%9A%E5%8D%9A%E4%BC%9A-%E8%8E%B7%E7%9F%A5%E6%B8%A0%E9%81%93%E5%88%97%E8%A1%A8.png?raw=true)<br>
+![Image text](https://github.com/liangpeiyi/weApp/blob/master/app-images/%E5%A9%9A%E5%8D%9A%E4%BC%9A-%E8%8E%B7%E7%9F%A5%E6%B8%A0%E9%81%93%E5%88%97%E8%A1%A8.png?raw=true)<br><br>
 数据提交<br>
 ![Image text](https://github.com/liangpeiyi/weApp/blob/master/app-images/%E5%A9%9A%E5%8D%9A%E4%BC%9A-%E6%95%B0%E6%8D%AE%E6%8F%90%E4%BA%A4.png?raw=true)
